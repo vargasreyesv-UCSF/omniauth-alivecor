@@ -7,7 +7,7 @@ module OmniAuth
       option :name, "alivecor"
  
       option :client_options, {
-        :site          => 'https://app.alivecor-staging.com',
+        :site          => 'https://app.alivecor.com',
         :authorize_path     => '/oauth/authorize'
       }  
     end
